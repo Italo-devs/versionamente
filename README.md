@@ -1,54 +1,76 @@
-# 🎮 
-### “Uma jornada de estratégia e aventura” 
-**Desenvolvido por:** Italo Silva dos Santos   
+# 🎮 LUMINA: Shadow
+### *Uma jornada de luz em um mundo tomado pelas sombras*  
+**Desenvolvido por:** Italo Silva dos Santos  
 **Data:** 31/10/2025  
+
+---
+
+## 🧭 Sumário
+1. Conceito do Jogo  
+2. História e Personagens  
+3. Mecânicas e Gameplay  
+4. Arte e Trilha Sonora  
+5. Tecnologias Utilizadas 
+
 
 ---
 
 ## 💡 1. Conceito do Jogo
 
-Apresente a ideia central do jogo.
+> “A luz é a última esperança em um mundo consumido pela escuridão.”
 
-> “Um jogo de plataforma 2D onde o jogador controla um robô que tenta restaurar a energia de um mundo pós-apocalíptico.”
+**LUMINA: Shadow** é um jogo de **ação e aventura em 2D** com elementos de **puzzle e exploração**.  
+O jogador controla *Lumen*, um pequeno robô de manutenção, que desperta em um planeta arruinado pela ausência de energia.  
+A missão: **restaurar os núcleos de luz** espalhados por ruínas antigas e enfrentar as entidades que se alimentam da escuridão.
 
-**Gênero:** Plataforma / Aventura  
-**Público-alvo:** Jogadores casuais e fãs de pixel art  
-**Plataforma:** PC e Web  
+**Gênero:** Plataforma / Metroidvania  
+**Público-alvo:** Fãs de jogos como *Hollow Knight* e *Celeste*  
+**Plataforma:** PC, Web e futuramente Android  
 
 ---
 
 ## 📖 2. História e Personagens
 
 **Enredo:**  
-O jogador assume o papel de *Lumen*, um pequeno robô que desperta em um planeta devastado pela falta de energia. Seu objetivo é reativar antigas torres de luz e descobrir o que causou o apagão.
+Séculos após a queda da civilização, as torres de energia que sustentavam o planeta *Orion* foram corrompidas por uma força sombria conhecida como *The Shade*.  
+Lumen desperta de seu modo de hibernação em meio às ruínas, com apenas uma faísca de energia restante e uma missão deixada por seus criadores:  
+> “Restaure a luz. Salve o que resta do mundo.”
 
 **Personagens principais:**
-- 🤖 **Lumen:** protagonista curioso e otimista.  
-- 🌀 **Shade:** entidade misteriosa que tenta impedi-lo.  
+- 🤖 **Lumen:** o protagonista — curioso, corajoso e movido pela esperança.  
+- 🌀 **Shade:** uma consciência obscura que tenta impedir a restauração dos núcleos.  
+- 🕯️ **Eira:** antiga IA guia que ajuda Lumen a compreender seu propósito.  
 
 ---
 
 ## 🕹️ 3. Mecânicas e Gameplay
 
-Explique as principais mecânicas do jogo.
+**Principais mecânicas:**
+- 🧭 **Exploração não linear:** descubra ruínas, cavernas e cidades esquecidas.  
+- ⚙️ **Energia como recurso:** use sua própria energia vital para iluminar áreas e resolver puzzles.  
+- 🧩 **Puzzles de luz:** manipule feixes e espelhos para abrir caminhos secretos.  
+- 💥 **Combate ágil:** esquivas, ataques com lâminas de energia e habilidades desbloqueáveis.  
+- 🧗 **Plataformas desafiadoras:** saltos precisos e paredes escaláveis em ambientes traiçoeiros.  
 
-- 🧭 Exploração de fases com obstáculos e inimigos  
-- ⚙️ Coleta de energia para desbloquear novas áreas  
-- 🧩 Resolução de pequenos puzzles de lógica  
-- 💥 Sistema de combate simples baseado em reflexos  
+**Fluxo de gameplay:**
 
-**Exemplo de fluxo de gameplay:**
-
+**Objetivo principal:** restaurar os 5 Núcleos de Luz espalhados pelo planeta.
 
 ---
 
 ## 🎨 4. Arte e Trilha Sonora
 
-**Estilo visual:** Pixel art inspirada em jogos clássicos dos anos 90.  
-**Cores predominantes:** Tons frios e luminosos, representando energia e tecnologia.  
-**Trilha sonora:** Música ambiente eletrônica e efeitos sonoros retro.
+**Estilo visual:** Pixel art detalhada com atmosfera sci-fi e iluminação dinâmica.  
+**Paleta de cores:** tons escuros com contrastes de ciano, roxo e dourado.  
+**Ambientes:** ruínas tecnológicas, florestas bioluminescentes e desertos elétricos.  
 
-> Ferramentas usadas: Aseprite (arte), Bfxr (sons), FL Studio (música)
+**Trilha sonora:**  
+Composições eletrônicas com camadas de sintetizadores e coros digitais — criando um clima melancólico e esperançoso.  
+
+> Ferramentas usadas:  
+> 🎨 Aseprite (arte e animações)  
+> 🎧 FL Studio (trilha sonora)  
+> 🔊 Bfxr (efeitos sonoros retrô)
 
 ---
 
@@ -56,47 +78,20 @@ Explique as principais mecânicas do jogo.
 
 | Ferramenta / Motor | Uso Principal |
 |---------------------|----------------|
-| **Unity** ou **Godot** | Desenvolvimento do jogo |
-| **C# / GDScript** | Programação |
-| **Aseprite** | Criação de sprites |
-| **Audacity / FL Studio** | Edição de áudio |
-| **GitHub** | Controle de versão |
+| **Godot Engine 4.2** | Desenvolvimento e física 2D |
+| **GDScript** | Lógica e scripts de gameplay |
+| **Aseprite** | Sprites e animações |
+| **FL Studio** | Trilha sonora e mixagem |
+| **GitHub + Git LFS** | Controle de versão e assets |
+| **Krita** | Ilustrações e telas de título |
 
 ---
-
-## ⚔️ 6. Desafios e Aprendizados
-
-- 🧩 Dificuldade em balancear a jogabilidade  
-- 🐞 Correção de bugs relacionados à física do personagem  
-- 🎨 Ajuste de paleta de cores para boa legibilidade  
-- 🧠 Aprendizado sobre loops de feedback e curva de dificuldade  
-
----
-
-## 🚀 7. Conclusões e Próximos Passos
-
-**O que deu certo:**  
-✅ Mecânicas intuitivas  
-✅ Boa recepção dos testadores  
-
-**Próximos passos:**  
-- Adicionar novos níveis e chefes  
-- Portar para Android  
-- Publicar em plataformas como *itch.io* ou *Steam*  
-
----
-
-## 🙌 Agradecimentos
-
-> “Agradeço à equipe, amigos e professores que ajudaram a tornar este projeto realidade.”
-
----
+## End
 
 ## 💬 Contato
 
 📧 **Email:** italosilvasilveira653@gmail.com  
 🐙 **GitHub:** [github.com/Italo-devs](https://github.com/Italo-devs)  
-📷 **Instagram:** [@italoksksjk](https://instagram.com/seudominio)
+📷 **Instagram:** [@italoksksjk](https://instagram.com/italoksksjk)
 
 ---
-
