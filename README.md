@@ -3,9 +3,6 @@
 **Desenvolvido por:** Italo Silva dos Santos   
 **Data:** 31/10/2025  
 
-
-
-
 ---
 
 ## 💡 1. Conceito do Jogo
